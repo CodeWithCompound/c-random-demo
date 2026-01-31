@@ -1,2 +1,2 @@
 # Random number sorting demo
-![screenshot](placeholder)
+![screenshot](preview_rand_num.png)
