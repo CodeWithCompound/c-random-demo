@@ -11,7 +11,7 @@ a project i made to get used to randomness in c. using a seed we generate random
 ## Tech Stack
 
 - Language: C
-- Main libs/frameworks: ...
+- Main libs/frameworks: time, std, io
 
 ---
 
