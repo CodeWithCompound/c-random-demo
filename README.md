@@ -23,7 +23,7 @@ the example.c file includes a example use in which you subtract a certain amount
 - generating a random seed (and displaying that)
 - generating a example random number (and displaying that as well
 - including a use case with example.c
-- 
+  
 ![wip](https://img.shields.io/badge/status-WIP-blue)
 
 - just a demo, it's done
