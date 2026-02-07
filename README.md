@@ -35,5 +35,5 @@ the example.c file includes a example use in which you subtract a certain amount
 
 ```bash
 # clone the repo
-git clone https://github.com/CodeWithCompound/simple_clock.git
+git clone https://github.com/CodeWithCompound/c-random-demo.git
 cd REPO_NAME
